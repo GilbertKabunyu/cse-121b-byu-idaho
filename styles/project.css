@@ -1,0 +1,22 @@
+  /* Add some basic CSS styles */
+  table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+    height: 30%;
+  }
+
+  th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+  }
+
+  th {
+    background-color: lightblue;
+    font-weight: bold;
+  }
+
+  tr:nth-child(even) {
+    background-color: lightgray;
+  }

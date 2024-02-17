@@ -1,0 +1,70 @@
+{
+    "standings": [
+        {
+            "rank": 1,
+            "name": "Liverpool",
+            "points": 57,
+            "goalsFor": 59,
+            "goalsAgainst": 24,
+            "goalDifference": 35
+        },
+        {
+            "rank": 2,
+            "name": "Arsenal",
+            "points": 55,
+            "goalsFor": 55,
+            "goalsAgainst": 22,
+            "goalDifference": 33
+        },
+        {
+            "rank": 3,
+            "name": "Manchester City",
+            "points": 52,
+            "goalsFor": 56,
+            "goalsAgainst": 25,
+            "goalDifference": 31
+        },
+        {
+            "rank": 4,
+            "name": "Aston Villa",
+            "points": 49,
+            "goalsFor": 51,
+            "goalsAgainst": 32,
+            "goalDifference": 19
+        },
+        {
+            "rank": 5,
+            "name": "Tottenham",
+            "points": 47,
+            "goalsFor": 51,
+            "goalsAgainst": 37,
+            "goalDifference": 14
+        }
+    ],
+    "fixtures": [
+        {
+            "date": "2024-02-18",
+            "homeTeam": "Chelsea",
+            "awayTeam": "Manchester United",
+            "venue": "Stamford Bridge"
+        },
+        {
+            "date": "2024-02-19",
+            "homeTeam": "Manchester City",
+            "awayTeam": "West Ham United",
+            "venue": "Etihad Stadium"
+        },
+        {
+            "date": "2024-02-22",
+            "homeTeam": "Leicester City",
+            "awayTeam": "Manchester City",
+            "venue": "King Power Stadium"
+        },
+        {
+            "date": "2024-02-24",
+            "homeTeam": "Liverpool",
+            "awayTeam": "West Ham United",
+            "venue": "Anfield"
+        }
+    ]
+}
